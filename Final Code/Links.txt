@@ -1,0 +1,9 @@
+PIR MOTION SENSOR
+https://www.tweaking4all.com/hardware/pir-sensor/
+http://www.instructables.com/id/PIR-Motion-Detector-With-Arduino-Operated-at-Lowes/
+https://learn.adafruit.com/pir-passive-infrared-proximity-motion-sensor/testing-a-pir
+
+GSM
+http://www.smssolutions.net/tutorials/gsm/sendsmsat/
+http://www.smssolutions.net/tutorials/gsm/receivesmsat/
+
